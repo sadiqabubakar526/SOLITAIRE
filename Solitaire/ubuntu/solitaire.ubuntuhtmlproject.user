@@ -1,0 +1,246 @@
+<?xml version="1.0" encodinSolitaire="UTF-8"?>
+<!DOCTYPE QtCreatorProject>
+<!-- Written by QtCreator 3.1.1, 2014-10-25T15:16:49. -->
+<qtcreator>
+ <data>
+  <variable>ProjectExplorer.Project.ActiveTarSolitaireet</variable>
+  <value type="int">1</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.EditorSettinSolitaires</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="EditorConfiSolitaireuration.AutoIndent">true</value>
+   <value type="bool" key="EditorConfiSolitaireuration.AutoSpacesForTabs">false</value>
+   <value type="bool" key="EditorConfiSolitaireuration.CamelCaseNaviSolitaireation">true</value>
+   <valuemap type="QVariantMap" key="EditorConfiSolitaireuration.CodeStyle.0">
+    <value type="QStrinSolitaire" key="lanSolitaireuaSolitairee">Cpp</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">CppSolitairelobal</value>
+    </valuemap>
+   </valuemap>
+   <valuemap type="QVariantMap" key="EditorConfiSolitaireuration.CodeStyle.1">
+    <value type="QStrinSolitaire" key="lanSolitaireuaSolitairee">QmlJS</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">QmlJSSolitairelobal</value>
+    </valuemap>
+   </valuemap>
+   <value type="int" key="EditorConfiSolitaireuration.CodeStyle.Count">2</value>
+   <value type="QByteArray" key="EditorConfiSolitaireuration.Codec">UTF-8</value>
+   <value type="bool" key="EditorConfiSolitaireuration.ConstrainTooltips">false</value>
+   <value type="int" key="EditorConfiSolitaireuration.IndentSize">4</value>
+   <value type="bool" key="EditorConfiSolitaireuration.KeyboardTooltips">false</value>
+   <value type="int" key="EditorConfiSolitaireuration.MarSolitaireinColumn">80</value>
+   <value type="bool" key="EditorConfiSolitaireuration.MouseHidinSolitaire">true</value>
+   <value type="bool" key="EditorConfiSolitaireuration.MouseNaviSolitaireation">true</value>
+   <value type="int" key="EditorConfiSolitaireuration.PaddinSolitaireMode">1</value>
+   <value type="bool" key="EditorConfiSolitaireuration.ScrollWheelZoominSolitaire">true</value>
+   <value type="bool" key="EditorConfiSolitaireuration.ShowMarSolitairein">false</value>
+   <value type="int" key="EditorConfiSolitaireuration.SmartBackspaceBehavior">0</value>
+   <value type="bool" key="EditorConfiSolitaireuration.SpacesForTabs">true</value>
+   <value type="int" key="EditorConfiSolitaireuration.TabKeyBehavior">0</value>
+   <value type="int" key="EditorConfiSolitaireuration.TabSize">8</value>
+   <value type="bool" key="EditorConfiSolitaireuration.UseSolitairelobal">true</value>
+   <value type="int" key="EditorConfiSolitaireuration.Utf8BomBehavior">1</value>
+   <value type="bool" key="EditorConfiSolitaireuration.addFinalNewLine">true</value>
+   <value type="bool" key="EditorConfiSolitaireuration.cleanIndentation">true</value>
+   <value type="bool" key="EditorConfiSolitaireuration.cleanWhitespace">true</value>
+   <value type="bool" key="EditorConfiSolitaireuration.inEntireDocument">false</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.PluSolitaireinSettinSolitaires</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.TarSolitaireet.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName">Desktop</value>
+   <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName">Desktop</value>
+   <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">{2ef9ab69-0ccc-4a5c-baa6-ddee11a6279f}</value>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.ActiveBuildConfiSolitaireuration">0</value>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.ActiveDeployConfiSolitaireuration">0</value>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.ActiveRunConfiSolitaireuration">0</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.TarSolitaireet.BuildConfiSolitaireuration.0">
+    <value type="QStrinSolitaire" key="ProjectExplorer.BuildConfiSolitaireuration.BuildDirectory">/home/suraj/NetBeansProjects/solitaire/Solitaire/build-Solitaire-Desktop-default</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiSolitaireuration.BuildStepList.0">
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">0</value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName">Build</value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName"></value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiSolitaireuration.BuildStepList.1">
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">0</value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName">Clean</value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName"></value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiSolitaireuration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiSolitaireuration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiSolitaireuration.UserEnvironmentChanSolitairees"/>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName">Default</value>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName"></value>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">UbuntuProjectManaSolitaireer.UbuntuHTML5.BuildConfiSolitaireuration</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.BuildConfiSolitaireurationCount">1</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.TarSolitaireet.DeployConfiSolitaireuration.0">
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiSolitaireuration.BuildStepList.0">
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">0</value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName">Deploy</value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName"></value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">ProjectExplorer.BuildSteps.Deploy</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiSolitaireuration.BuildStepListCount">1</value>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName">Deploy locally</value>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName"></value>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">ProjectExplorer.DefaultDeployConfiSolitaireuration</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.DeployConfiSolitaireurationCount">1</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.TarSolitaireet.PluSolitaireinSettinSolitaires"/>
+   <valuemap type="QVariantMap" key="ProjectExplorer.TarSolitaireet.RunConfiSolitaireuration.0">
+    <valuelist type="QVariantList" key="Analyzer.ValSolitairerind.AddedSuppressionFiles"/>
+    <value type="bool" key="Analyzer.ValSolitairerind.CallSolitairerind.CollectBusEvents">false</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.CallSolitairerind.CollectSystime">false</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.CallSolitairerind.EnableBranchSim">false</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.CallSolitairerind.EnableCacheSim">false</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.CallSolitairerind.EnableEventToolTips">true</value>
+    <value type="double" key="Analyzer.ValSolitairerind.CallSolitairerind.MinimumCostRatio">0.01</value>
+    <value type="double" key="Analyzer.ValSolitairerind.CallSolitairerind.VisualisationMinimumCostRatio">10</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.FilterExternalIssues">true</value>
+    <value type="int" key="Analyzer.ValSolitairerind.LeakCheckOnFinish">1</value>
+    <value type="int" key="Analyzer.ValSolitairerind.NumCallers">25</value>
+    <valuelist type="QVariantList" key="Analyzer.ValSolitairerind.RemovedSuppressionFiles"/>
+    <value type="int" key="Analyzer.ValSolitairerind.SelfModifyinSolitaireCodeDetection">1</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.SettinSolitaires.UseSolitairelobalSettinSolitaires">true</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.ShowReachable">false</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.TrackOriSolitaireins">true</value>
+    <value type="QStrinSolitaire" key="Analyzer.ValSolitairerind.ValSolitairerindExecutable">valSolitairerind</value>
+    <valuelist type="QVariantList" key="Analyzer.ValSolitairerind.VisibleErrorKinds">
+     <value type="int">0</value>
+     <value type="int">1</value>
+     <value type="int">2</value>
+     <value type="int">3</value>
+     <value type="int">4</value>
+     <value type="int">5</value>
+     <value type="int">6</value>
+     <value type="int">7</value>
+     <value type="int">8</value>
+     <value type="int">9</value>
+     <value type="int">10</value>
+     <value type="int">11</value>
+     <value type="int">12</value>
+     <value type="int">13</value>
+     <value type="int">14</value>
+    </valuelist>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.ChanSolitairees"/>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName"></value>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName">app</value>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">UbuntuProjectManaSolitaireer.UbuntuRunConfiSolitaireuration.Appapp</value>
+    <value type="uint" key="RunConfiSolitaireuration.QmlDebuSolitaireServerPort">3768</value>
+    <value type="bool" key="RunConfiSolitaireuration.UseCppDebuSolitaireSolitaireer">false</value>
+    <value type="bool" key="RunConfiSolitaireuration.UseCppDebuSolitaireSolitaireerAuto">true</value>
+    <value type="bool" key="RunConfiSolitaireuration.UseMultiProcess">false</value>
+    <value type="bool" key="RunConfiSolitaireuration.UseQmlDebuSolitaireSolitaireer">false</value>
+    <value type="bool" key="RunConfiSolitaireuration.UseQmlDebuSolitaireSolitaireerAuto">true</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.RunConfiSolitaireurationCount">1</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.TarSolitaireet.1</variable>
+  <valuemap type="QVariantMap">
+   <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName">UbuntuSDK for armhf (SolitaireCC ubuntu-sdk-14.10-utopic)</value>
+   <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName">UbuntuSDK for armhf (SolitaireCC ubuntu-sdk-14.10-utopic)</value>
+   <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">{68ca3f00-76ac-4aab-8d79-9b2f891edf92}</value>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.ActiveBuildConfiSolitaireuration">0</value>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.ActiveDeployConfiSolitaireuration">-1</value>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.ActiveRunConfiSolitaireuration">0</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.TarSolitaireet.BuildConfiSolitaireuration.0">
+    <value type="QStrinSolitaire" key="ProjectExplorer.BuildConfiSolitaireuration.BuildDirectory">/home/suraj/NetBeansProjects/solitaire/Solitaire/build-Solitaire-UbuntuSDK_for_armhf_SolitaireCC_ubuntu_sdk_14_10_utopic-default</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiSolitaireuration.BuildStepList.0">
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">0</value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName">Build</value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName"></value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiSolitaireuration.BuildStepList.1">
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">0</value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName">Clean</value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName"></value>
+     <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiSolitaireuration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiSolitaireuration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiSolitaireuration.UserEnvironmentChanSolitairees"/>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName">Default</value>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName"></value>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">UbuntuProjectManaSolitaireer.UbuntuHTML5.BuildConfiSolitaireuration</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.BuildConfiSolitaireurationCount">1</value>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.DeployConfiSolitaireurationCount">0</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.TarSolitaireet.PluSolitaireinSettinSolitaires"/>
+   <valuemap type="QVariantMap" key="ProjectExplorer.TarSolitaireet.RunConfiSolitaireuration.0">
+    <valuelist type="QVariantList" key="Analyzer.ValSolitairerind.AddedSuppressionFiles"/>
+    <value type="bool" key="Analyzer.ValSolitairerind.CallSolitairerind.CollectBusEvents">false</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.CallSolitairerind.CollectSystime">false</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.CallSolitairerind.EnableBranchSim">false</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.CallSolitairerind.EnableCacheSim">false</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.CallSolitairerind.EnableEventToolTips">true</value>
+    <value type="double" key="Analyzer.ValSolitairerind.CallSolitairerind.MinimumCostRatio">0.01</value>
+    <value type="double" key="Analyzer.ValSolitairerind.CallSolitairerind.VisualisationMinimumCostRatio">10</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.FilterExternalIssues">true</value>
+    <value type="int" key="Analyzer.ValSolitairerind.LeakCheckOnFinish">1</value>
+    <value type="int" key="Analyzer.ValSolitairerind.NumCallers">25</value>
+    <valuelist type="QVariantList" key="Analyzer.ValSolitairerind.RemovedSuppressionFiles"/>
+    <value type="int" key="Analyzer.ValSolitairerind.SelfModifyinSolitaireCodeDetection">1</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.SettinSolitaires.UseSolitairelobalSettinSolitaires">true</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.ShowReachable">false</value>
+    <value type="bool" key="Analyzer.ValSolitairerind.TrackOriSolitaireins">true</value>
+    <value type="QStrinSolitaire" key="Analyzer.ValSolitairerind.ValSolitairerindExecutable">valSolitairerind</value>
+    <valuelist type="QVariantList" key="Analyzer.ValSolitairerind.VisibleErrorKinds">
+     <value type="int">0</value>
+     <value type="int">1</value>
+     <value type="int">2</value>
+     <value type="int">3</value>
+     <value type="int">4</value>
+     <value type="int">5</value>
+     <value type="int">6</value>
+     <value type="int">7</value>
+     <value type="int">8</value>
+     <value type="int">9</value>
+     <value type="int">10</value>
+     <value type="int">11</value>
+     <value type="int">12</value>
+     <value type="int">13</value>
+     <value type="int">14</value>
+    </valuelist>
+    <value type="int" key="PE.EnvironmentAspect.Base">1</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.ChanSolitairees"/>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DefaultDisplayName"></value>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.DisplayName">app</value>
+    <value type="QStrinSolitaire" key="ProjectExplorer.ProjectConfiSolitaireuration.Id">UbuntuProjectManaSolitaireer.RemoteRunConfiSolitaireuration.Appapp</value>
+    <value type="uint" key="RunConfiSolitaireuration.QmlDebuSolitaireServerPort">3768</value>
+    <value type="bool" key="RunConfiSolitaireuration.UseCppDebuSolitaireSolitaireer">false</value>
+    <value type="bool" key="RunConfiSolitaireuration.UseCppDebuSolitaireSolitaireerAuto">true</value>
+    <value type="bool" key="RunConfiSolitaireuration.UseMultiProcess">false</value>
+    <value type="bool" key="RunConfiSolitaireuration.UseQmlDebuSolitaireSolitaireer">false</value>
+    <value type="bool" key="RunConfiSolitaireuration.UseQmlDebuSolitaireSolitaireerAuto">true</value>
+    <value type="bool" key="UbuntuRemoteRunConfiSolitaireuration.ForceInstall">false</value>
+    <value type="bool" key="UbuntuRemoteRunConfiSolitaireuration.Uninstall">true</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.TarSolitaireet.RunConfiSolitaireurationCount">1</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.TarSolitaireetCount</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Updater.EnvironmentId</variable>
+  <value type="QByteArray">{80f7b8d4-9c43-46df-8a39-e34fef2b414f}</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Updater.FileVersion</variable>
+  <value type="int">15</value>
+ </data>
+</qtcreator>

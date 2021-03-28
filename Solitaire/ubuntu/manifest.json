@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "Solitaire is a very awesome solitaire game",
+    "framework": "ubuntu-sdk-14.10-dev2",
+    "hooks": {
+        "app": {
+            "apparmor": "app.json",
+            "desktop": "app.desktop"
+        }
+    },
+    "maintainer": "SURAJ SR ABUBAKAR <surajabubakar443@gmail.com>",
+    "name": "com.ubuntu.developer.surajabubakar.solitaire",
+    "title": "Solitaire",
+    "version": "2.2.1"
+}

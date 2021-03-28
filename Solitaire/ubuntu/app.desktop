@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Solitaire
+Comment=Solitaire is a super awesome solitaire game 
+Type=Application
+Icon=solitaire.png
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=URL-HERE* URL-HERE %u
+Terminal=false
+X-Ubuntu-Touch=true
+

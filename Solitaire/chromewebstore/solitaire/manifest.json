@@ -1,0 +1,20 @@
+{
+    "name": "Solitaire",
+    "description": "Solitaire is an awesome solitaire  game. The goal is to match open pairs of identical tiles and remove them from the board.",
+    "manifest_version": 2, 
+    "version": "2",
+    "app": {
+        "urls": [
+            "#"
+			],
+        "launch": {
+            "web_url": "#"
+        }
+    },
+    "icons": {
+        "128": "solitaire128.png"
+    },
+    "offline_enabled":true,
+    "permissions": [
+    ]
+}
